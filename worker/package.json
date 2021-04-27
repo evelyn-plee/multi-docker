@@ -7,7 +7,7 @@
     "dev": "nodemon"
   },
   "devDependencies": {
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   },
   "name": "worker",
   "version": "1.0.0",
